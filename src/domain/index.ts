@@ -9,3 +9,4 @@ export * from './use-cases/todo/get-todo'
 export * from './use-cases/todo/get-todos'
 export * from './use-cases/todo/update-todo'
 
+export * from './errors/custom.error'
